@@ -38,7 +38,7 @@
 
 - **类型**：新闻报道（Rock Paper Shotgun；HN 讨论）
 - **来源 URL**：https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry ；HN https://news.ycombinator.com/item?id=50610369
-- **抓取日期**：2026-11-27（RPS 经 web_reader 抓到标题与导语；IGN 同题报道抓取被拦，未及抓取）
+- **抓取日期**：2026-11-27（RPS 全文经 web_reader 抓取并归档：[sources/2026-11-27-isaac-ai-music-rps.md](../../../sources/2026-11-27-isaac-ai-music-rps.md)；IGN 同题报道抓取被拦，未及抓取）
 
 **事件与时间线**：《以撒的结合：忏悔+》（The Binding of Isaac: Repentance+）11-19 推送免费更新，刻意选在 GTA 6 发售日上线（借恶搞 GTA 日常关卡做话题）；11-21 Reddit 用户 ShweetsStuff 从音乐文件元数据挖出 Suno 生成痕迹，而 Steam 商店页无任何 AI 披露，发行商 Nicalis 随即撤除音乐文件；11-23 RPS 报道。该更新属 70 美元本体内容的一部分。
 
@@ -69,7 +69,7 @@
 ## 条目 31｜育碧同日宣布裁员 166 人并成立生成式 AI 子公司 Motherbrain
 
 - **类型**：新闻报道（Engadget、IGN）
-- **来源 URL**：https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio ；另见 https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain（IGN 抓取被拦，未及抓取）
+- **来源 URL**：https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio（全文已归档：[sources/2026-11-27-ubisoft-genai-studio-engadget.md](../../../sources/2026-11-27-ubisoft-genai-studio-engadget.md)）；另见 https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain（IGN 抓取被拦，未及抓取）
 - **抓取日期**：2026-11-27
 
 **事件与时间线**：2026-11-19 育碧在蒙特利尔与魁北克城裁员 166 人，同日公布 genAI 子公司 Motherbrain（生成式 AI 用于 gameplay）；子公司名被玩家嘲「Metros 反派」/Metroid villain。年内早前已有约 40 人裁撤；有报道把 Motherbrain 定为 10 月成立（本条以 11-19 报道日为准）；其 AI 驱动团队协作游戏 Teammates 于 2025-11-21 公布；另有腾讯×育碧×NVIDIA NPC 工具合作背景。
@@ -103,6 +103,7 @@
 - **类型**：财报报道 + 传闻证伪记录
 - **来源 URL**：网易 https://app.xinhuanet.com/news/article.html?articleId=80a52e4243c36b855ac5db22df2f4d3f ；腾讯 https://www.lanjinger.com/d/1795184167467871003 ；证伪 https://www.gamereactor.eu/no-netease-hasnt-put-a-total-ban-on-generative-ai-in-its-games-1670333
 - **抓取日期**：2026-11-27（三处均提取成功；检索中另遇 cls.cn 腾讯云混元 3D 页面，实为 2025-09-18 旧文，判为过期不入档）
+- **源文口径核对（2026-11-27 全文归档时发现）**：上方新华网链接经全文归档（[sources/2026-11-27-netease-xinhuanet.md](../../../sources/2026-11-27-netease-xinhuanet.md)）核对，实为网易 **2025 年报**（2026-02-11）电话会解读，而非 2026Q3 电话会原文——「最懂游戏的 AI 专家」口号、「300% 效能提升」「2025 年大规模部署」在该文（2 月口径）即已出现；本条归到 Q3 电话会（2026-11-19）的原话表述无归档可对证，引用 300% 时以「厂商 2026-02 年报口径」为准。《燕云十六声》8000 万用户（2 月）vs 1 亿（11 月蓝鲸篇）、《无限大》全平台计划（2 月）vs 定档 2027-01-15（11 月）两套口径对照详见归档头部。
 
 **事件与时间线**：2026-11-19 两家 Q3 财报电话会——网易提出做「最懂游戏的 AI 专家」，AI 原生管线已覆盖美术/策划/编程/动画/QA，部分环节效能提升 300%（厂商口径），称 2025 年已大规模部署；腾讯 Q3 Non-IFRS 经营利润同比 -6%，管理层归因 AI 基础设施投入，次日港股一度跌近 6%。
 
@@ -133,12 +134,12 @@
 ## 条目 35｜Valve 回应开发者对「AI 垃圾与换皮」泛滥的担忧；itch.io 清删升级
 
 - **类型**：平台方表态（Reddit r/Games）+ 媒体报道（GameLuster，源文归档 sources/2026-11-27-itch-io-ai-slop-purge-gameluster.md）
-- **来源 URL**：https://www.reddit.com/r/Games/comments/1xhhufp/valve_responds_to_developers_fearing_ai_slop_and ；https://gameluster.com/itch-io-deletes-terabytes-of-ai-slop-as-daily-uploads-double
-- **抓取日期**：2026-11-27（r/Games 原帖抓取被拦，日期未确认，约 10 月底-11 月初按帖子 ID 序推断；GameLuster 提取成功）
+- **来源 URL**：https://www.reddit.com/r/Games/comments/1xhhufp/valve_responds_to_developers_fearing_ai_slop_and（全文已归档：[sources/2026-11-27-reddit-games-valve.md](../../../sources/2026-11-27-reddit-games-valve.md)）；https://gameluster.com/itch-io-deletes-terabytes-of-ai-slop-as-daily-uploads-double（全文已归档：[sources/2026-11-27-itch-io-ai-slop-purge-gameluster.md](../../../sources/2026-11-27-itch-io-ai-slop-purge-gameluster.md)）
+- **抓取日期**：2026-11-27（r/Games 原帖经 web_reader 抓取成功并全文归档，原帖发布 2026-10-28T07:48:56Z（页面元数据），快照含标题、OP 与按 Best 排序的热门评论摘录，详见 sources/2026-11-27-reddit-games-valve.md；GameLuster 全文归档见上）
 
 **事件与时间线**：Valve 公开回应开发商对 Steam 上 AI 生成内容与换皮克隆泛滥的担忧——平台方在披露率近五成（条目 30）背景下的最新治理表态。同期 itch.io 在 11-03 过滤器公告后继续扩量清删：GameLuster（2026-11-03，Cody Harwell）披露日上传页从 8-03 约 3000 页涨到 10-30 的 6000+ 页（上传翻倍而下载/购买未翻倍），管理员称 "Just deleted a couple terabytes of ai slop"（刚删掉几个 TB 的 AI 垃圾），被追问依据时回 "Take a guess"（你猜）；披露要求扩展到桌游/书籍/漫画/原声，且即使 AI 内容最终被人工编辑掉，上传时也必须披露；"No AI" 筛选将从标签页扩展进站内搜索。Kotaku 于 11-02~09 间跟进报道。
 
-**数据与证据**：itch.io 政策背景——AI 资产披露要求与质量准则 slop 条款均已存在 2 年以上，本次是执行加码非新规；有高频上传者被警告将失去上传权限。随 Valve 讨论流传的统计：80 款披露游戏中约 60 款零玩家（transcript 见转述，原始出处未及核对）。
+**数据与证据**：itch.io 政策背景——AI 资产披露要求与质量准则 slop 条款均已存在 2 年以上，本次是执行加码非新规；有高频上传者被警告将失去上传权限。随 Valve 讨论流传的统计：80 款披露游戏中约 60 款零玩家（transcript 见转述，原始出处未及核对；已核对 2026-11-27 归档的原帖快照与热门评论摘录，该统计不在其中，出处仍在原帖更深层回复或外部转述中）。
 
 **各方反应与争议点**：开发者要求平台清理 vs Sweeney 式「标签污名化」论（条目 30）形成平台间路线分歧；「披露即使被编辑掉也要做」的严格化引发合规成本讨论。
 
